@@ -62,7 +62,7 @@ public class Organizador {
         imprime_pistas = controler.Imprimir_Pistas();
         crea_enemigos = controler.Crear_Enemigos();
         imprime_enemigos = controler.Mostrar_Enemigos();
-        destruye_pistas = controler.Destructor_de_Pistas();
+        //destruye_pistas = controler.Destructor_de_Pistas();
         imprime_pistas = controler.Imprimir_Pistas();
         dibuja_suelo = controler.Dibujar_Suelo();
         imprime_menu = controler.Menu();
